@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-flexbox-and-clamp-iGMOqroZH2](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-flexbox-and-clamp-iGMOqroZH2)
-- Live Site URL: [https://alexander3717.github.io/SocialMediaLinksProfileChallenge/](https://alexander3717.github.io/SocialMediaLinksProfileChallenge/)
+- Live Site URL: [https://alexander3717.github.io/SocialMediaLinksProfileChallenge/](https://alexander3717.github.io/SocialLinksProfileChallenge/)
 
 ## My process
 
