@@ -47,26 +47,25 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 5px;
+    gap: 8px;
 
     margin-bottom: 28px;
 }
 
 .linkcard-header-image {
     border-radius: 50%;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .linkcard-header-heading {
     color: white;
-    font-size: 28px;
-    font-weight: 400;
-    
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .linkcard-header-subheading {
     color: var(--Green);
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 600;
 }
 
