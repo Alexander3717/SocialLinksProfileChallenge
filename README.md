@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-flexbox-and-clamp-iGMOqroZH2](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-flexbox-and-clamp-iGMOqroZH2)
+- Live Site URL: [https://alexander3717.github.io/SocialMediaLinksProfileChallenge/](https://alexander3717.github.io/SocialMediaLinksProfileChallenge/)
 
 ## My process
 
